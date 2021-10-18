@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+
+.footer-ul{
+  width: 50%;
+  /* background-color: black !important; */
+}
+
+.footer-li{
+  color: white;
+  background-color: #212529;
+}
